@@ -32,6 +32,7 @@ namespace NES.Turas.BS4StyleGuide
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseBrowserLink();
             }
             else
             {

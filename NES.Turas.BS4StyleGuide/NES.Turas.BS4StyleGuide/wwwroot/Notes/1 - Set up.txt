@@ -1,0 +1,31 @@
+﻿
+
+Read this: https://getbootstrap.com/docs/4.0/getting-started/theming/
+
+
+1)
+Installed BS 4 SASS via Visual studio:
+--> "Install-Package bootstrap.sass -Version 4.6.0"
+
+Uninstalled and added bs 4 manualy due to folder not showing!
+
+---
+
+
+2) https://webdesign.tutsplus.com/tutorials/watch-and-compile-sass-in-five-quick-steps--cms-28275
+
+Install SASS Globally
+npm install -g node-sass
+
+npm run scss
+
+npm run scss
+
+
+3) Added Main.scss file and 
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+4) https://docs.microsoft.com/en-us/aspnet/core/client-side/using-browserlink?view=aspnetcore-5.0
+
+Install-Package Microsoft.VisualStudio.Web.BrowserLink 
