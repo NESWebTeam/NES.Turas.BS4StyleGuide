@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "br94ll8aeCQMP7e9tjST1aEZstIVu07BN0ye/VaF0tOQW9r/KTOQNR9nkGsUDVcdWsvzqSgAwdJS/ssi+brfIw==",
+  "dgSpecHash": "ke/SmzYQhrL/3q7Ojco+zOukKkAZJh6HjQIVUNfgIvtXKdeITZ3W9mByX36RettUvXscLy26jI4yXPxlvQP99g==",
   "success": true,
   "projectFilePath": "C:\\NES\\Projects\\NES.Turas.BS4StyleGuide\\NES.Turas.BS4StyleGuide\\NES.Turas.BS4StyleGuide\\NES.Turas.BS4StyleGuide.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\markd\\.nuget\\packages\\bootstrap.sass\\4.6.0\\bootstrap.sass.4.6.0.nupkg.sha512",
+    "C:\\Users\\markd\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\markd\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
   "logs": []
 }
