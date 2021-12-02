@@ -1,0 +1,11 @@
+﻿/* Overwrite bootstrap variables here: */
+
+$body-bg: purple;
+$body-color: green;
+
+/* Import all of Bootstrap: */
+@import "wwwroot/scss/bootstrap.scss";
+
+
+/* Any Turas Compoents here: */
+@import "wwwroot/TurasSCSS/TurasTest.scss";
