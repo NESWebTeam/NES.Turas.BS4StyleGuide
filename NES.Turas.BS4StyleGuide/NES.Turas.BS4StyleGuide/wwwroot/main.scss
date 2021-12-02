@@ -1,6 +1,6 @@
 ﻿/* Overwrite bootstrap variables here: */
 
-$body-bg: purple;
+$body-bg: yellow;
 $body-color: green;
 
 /* Import all of Bootstrap: */
@@ -8,4 +8,4 @@ $body-color: green;
 
 
 /* Any Turas Compoents here: */
-@import "wwwroot/TurasSCSS/TurasTest.scss";
+@import "wwwroot/scssTuras/TurasUIBS4BaseStyles.scss";

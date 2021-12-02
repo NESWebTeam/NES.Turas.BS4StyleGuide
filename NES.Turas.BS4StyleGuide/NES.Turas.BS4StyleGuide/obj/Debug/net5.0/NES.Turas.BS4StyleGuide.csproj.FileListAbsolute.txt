@@ -39,3 +39,5 @@ C:\NES\Projects\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\NES.Turas.BS4Sty
 C:\NES\Projects\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\obj\Debug\net5.0\NES.Turas.BS4StyleGuide.genruntimeconfig.cache
 C:\NES\Projects\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\obj\Debug\net5.0\NES.Turas.BS4StyleGuide.csproj.CopyComplete
 C:\NES\Projects\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\NES\Projects\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\bin\Debug\net5.0\package-lock.json
+C:\NES\Projects\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\NES.Turas.BS4StyleGuide\bin\Debug\net5.0\package.json

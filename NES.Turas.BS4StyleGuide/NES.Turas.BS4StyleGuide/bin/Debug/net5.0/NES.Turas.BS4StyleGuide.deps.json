@@ -34,7 +34,6 @@
       "NES.Turas.BS4StyleGuide/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Web.BrowserLink": "2.2.0",
-          "bootstrap.sass": "4.6.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -326,13 +325,6 @@
           "NES.Turas.BS4StyleGuide.dll": {}
         }
       },
-      "bootstrap.sass/4.6.0": {
-        "dependencies": {
-          "jQuery": "3.0.0",
-          "popper.js": "1.16.1"
-        }
-      },
-      "jQuery/3.0.0": {},
       "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Server.Abstractions": "2.2.0",
@@ -421,7 +413,6 @@
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll": {}
         }
       },
-      "popper.js/1.16.1": {},
       "System.Buffers/4.5.0": {},
       "System.Memory/4.5.1": {},
       "System.Runtime.CompilerServices.Unsafe/4.5.1": {},
@@ -2132,20 +2123,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "bootstrap.sass/4.6.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Q50MhOBgWRKTAtFIb7Y4fUNqSjCtwFZyTvPAaihKEbAPtXO1Pbymub+7r0dU54UlzMewznfV9Elfsuv0vhs8Sw==",
-      "path": "bootstrap.sass/4.6.0",
-      "hashPath": "bootstrap.sass.4.6.0.nupkg.sha512"
-    },
-    "jQuery/3.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-xFfntV19HzCtKdJWOp/XT9PUY3SslokTDDLFJZdBug36j1XVhw1+vPQ/n7Gd5y+jdpesn5B1m1yn1qIUq57jlA==",
-      "path": "jquery/3.0.0",
-      "hashPath": "jquery.3.0.0.nupkg.sha512"
-    },
     "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -2250,13 +2227,6 @@
       "sha512": "sha512-cmeqhbB+rdMia3bj6cJaKQw1GDOqHxzDWAjoJqCnz+JYi9a2xsBdzycYy9eMEssVwLmLAUw6sWLMPMfGXAQmWA==",
       "path": "microsoft.visualstudio.web.browserlink/2.2.0",
       "hashPath": "microsoft.visualstudio.web.browserlink.2.2.0.nupkg.sha512"
-    },
-    "popper.js/1.16.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-6GiVZho0vwBnId7pK7NLTjMGq4F0/VE65I08CCeKlarVoUt1w8SGTtJmhNo/0pK38EGUP/xbT4+OkWB8UTMPBw==",
-      "path": "popper.js/1.16.1",
-      "hashPath": "popper.js.1.16.1.nupkg.sha512"
     },
     "System.Buffers/4.5.0": {
       "type": "package",

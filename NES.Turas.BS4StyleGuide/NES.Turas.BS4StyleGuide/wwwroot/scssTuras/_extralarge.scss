@@ -1,0 +1,77 @@
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+
+        /* - - - - - - - - - - - - - - - - - - - - 
+                    Main navigation
+        - - - - - - - - - - - - - - - - - - - - */
+
+        #main-nav {
+            .container {
+                max-width: 1140px;
+                margin: auto;
+            }
+            &.navbar {
+                &.bg-dark {
+                    padding: 0;
+
+                    .menu-text {
+                    display: none;
+                    }
+                }
+
+                .nav-item {
+
+                    .nav-link {
+                        color: $dark_blue;
+                        padding: 19px  12px;
+                        font-size: 0.9375rem;
+                        
+
+                        &:hover {
+                            background: $bg_grey;
+                            ;
+                        }
+
+                    }
+
+                    &.active {
+                        background: #FFF;
+                        font-weight: 600;
+                    }
+
+                    &.dropdown {
+
+                        &.show {
+                            background: $bg_grey;
+                        }
+
+                        .dropdown-toggle {
+                            &:after {
+                                vertical-align: 2px;
+                            }
+                        }
+
+                        .dropdown-menu {
+                            
+                            .dropdown-item {
+                                font-size: 0.9375rem;
+
+                                &:hover {
+                                    color: $dark_blue;
+                                    background: $bg_grey;
+                                }
+                            }
+
+                            
+                            .dropdown-divider {
+                                margin: 0;
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+
+
+ }
