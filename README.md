@@ -1,0 +1,3 @@
+# NES.Turas.BS4StyleGuide
+
+NOTE: THIS REPO CAN BE DELETED as MOVED to Devops
